@@ -1,2 +1,3 @@
 # hosting
-ot-withdraw-com=otwithdraw.com
+ot-withdraw-com
+otwithdraw.com
